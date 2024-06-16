@@ -2,6 +2,8 @@
 
 Software Engineer
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgigyesik%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Skills
 
 ### Languages and Platforms
@@ -42,6 +44,7 @@ Software Engineer
 ![GitHubPages](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=GitHubPages&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Gmail](https://img.shields.io/badge/gigyesik@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
+
 
 [//]: # (![BuyMeACoffee]&#40;https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=flat-square&logo=BuyMeACoffee&logoColor=white&#41;)
 [//]: # (![Tistory]&#40;https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&#41;)
