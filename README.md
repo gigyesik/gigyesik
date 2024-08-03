@@ -10,11 +10,14 @@ Software Engineer
 
 <p>
 
+[//]: # (SpringBoot)
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+
 [//]: # (Python)
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 
-[//]: # (SpringBoot)
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+[//]: # (PHP)
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
 
 </p>
 
@@ -65,26 +68,26 @@ Software Engineer
 
 <p>
 
-[//]: # (Disqus)
-  <img src="https://img.shields.io/badge/Disqus-2E9FFF?style=flat-square&logo=Disqus&logoColor=white">
+[//]: # (Ubuntu)
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 
 [//]: # (Gradle)
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">  
 
-[//]: # (Jekyll)
-  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white">
-
-[//]: # (macOS)
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white">
+[//]: # (Swagger)
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
 
 [//]: # (Markdown)
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white">
 
-[//]: # (Swagger)
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
+[//]: # (Apache)
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white">
 
-[//]: # (Ubuntu)
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+[//]: # (Disqus)
+  <img src="https://img.shields.io/badge/Disqus-2E9FFF?style=flat-square&logo=Disqus&logoColor=white">
+
+[//]: # (Jekyll)
+  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white">
 
 </p>
 
@@ -92,14 +95,11 @@ Software Engineer
 
 <p>
 
-[//]: # (DBeaver)
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white">
-
 [//]: # (Git)
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 
-[//]: # (IntellijIDEA)
-  <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white">
+[//]: # (JetBrains IDE)
+  <img src="https://img.shields.io/badge/JetBrainsIDE-000000?style=flat-square&logo=JetBrains&logoColor=white">
 
 [//]: # (Notion)
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
@@ -107,17 +107,17 @@ Software Engineer
 [//]: # (Slack)
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 
+[//]: # (DBeaver)
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white">
+
 [//]: # (Sourcetree)
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white">
 
-[//]: # (TestRail)
-  <img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logo=TestRail&logoColor=white">
-
-[//]: # (WebStorm)
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white">
-
 [//]: # (Wireshark)
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white">
+
+[//]: # (TestRail)
+  <img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logo=TestRail&logoColor=white">
 
 </p>
 
@@ -129,10 +129,13 @@ Software Engineer
   <a href="mailto:gigyesik@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gigyesik@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
+[//]: # (produce by https://simpleicons.org/)
 
 [//]: # (Need Add)
 [//]: # (![Discord]&#40;https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&#41;)
 [//]: # (![Gitea]&#40;https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=Gitea&logoColor=white&#41;)
+[//]: # (IntellijIDEA)
+[//]: # (  <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white">)
 [//]: # (![Spring]&#40;https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&#41;)
 [//]: # (![SpringSecurity]&#40;https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white&#41;)
 [//]: # (![Tistory]&#40;https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&#41;)
@@ -144,3 +147,26 @@ Software Engineer
 [//]: # (Deprecated)
 [//]: # (![VisualStudioCode]&#40;https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white&#41;)
 [//]: # (![Windows]&#40;https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white&#41;)
+
+[//]: # (ETC Icon Index)
+[//]: # (amazonec2)
+[//]: # (bootstrap)
+[//]: # (c)
+[//]: # (dart)
+[//]: # (datadog)
+[//]: # (elasticsearch)
+[//]: # (fastapi)
+[//]: # (go)
+[//]: # (html5)
+[//]: # (ios)
+[//]: # (javascript)
+[//]: # (kubernetes)
+[//]: # (leetcode)
+[//]: # (mariadb)
+[//]: # (nextdotjs)
+[//]: # (oracle)
+[//]: # (postgresql)
+[//]: # (react)
+[//]: # (selenium)
+[//]: # (thymeleaf)
+[//]: # (velog)
